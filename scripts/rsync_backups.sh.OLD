@@ -1,0 +1,2 @@
+sshpass -phendrix rsync -aP --log-file=/root/logs/rsync_backups.log /var/lib/vz/dump/  Admin@192.168.0.10:/mnt/DroboFS/Shares/ProxmoxBackups/dump
+
